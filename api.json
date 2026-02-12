@@ -1,0 +1,150 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/rumtifusel",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "rumtifusel",
+    "name": "Rumtifusel",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": [
+      "fearsome-critter",
+      "lumberjack-folklore",
+      "incredibly-fast",
+      "indescribable",
+      "humorous",
+      "tall-tale"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "An incredibly fast creature that moves so rapidly it has never been clearly observed or described, known only for its impossible speed.",
+      "full": "The Rumtifusel is the ultimate in elusive fearsome critters. This creature moves with such incredible, impossible speed that no one has ever gotten a clear look at it. Witnesses report only a blur, a rush of wind, or a sense of something passing by faster than the eye can follow. Because it has never been clearly seen, no definitive description exists—accounts vary wildly because observers simply cannot process what they're seeing before it's gone. According to lumberjack tall tales, the Rumtifusel is too fast to see, too fast to catch, and too fast to describe. The creature represents the fearsome critter tradition's playful use of non-description as description: defining something entirely by what cannot be known about it."
+    },
+    "etymology": {
+      "origin": "American lumberjack folklore, early 20th century",
+      "meaning": "Unknown; typical nonsense naming of fearsome critters",
+      "first_use": "circa 1910"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter",
+      "subtype": "Speed-based",
+      "variant": "Indescribably Fast"
+    },
+    "related_phenomena": [
+      {
+        "id": "whirling-whimpus",
+        "name": "Whirling Whimpus",
+        "relationship": "similar",
+        "description": "Also invisible due to speed, but through spinning"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "size": "Unknown, too fast to observe",
+      "coloration": ["unknown", "appears as blur"],
+      "features": [
+        {
+          "feature": "Extreme speed",
+          "description": "Moves faster than eye can track",
+          "frequency": "always"
+        },
+        {
+          "feature": "Indescribable appearance",
+          "description": "Too fast to see clearly",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Unknown; no clear observations exist"
+    },
+    "abilities": [
+      {
+        "ability": "Impossible speed",
+        "description": "Moves too rapidly for observation or comprehension",
+        "frequency": "constant",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "social_structure": "unknown",
+      "habitat_preference": ["unknown", "presumably forests"],
+      "diet": "Unknown",
+      "patterns": [
+        "Moves with impossible speed",
+        "Never clearly observed",
+        "Leaves no definitive traces",
+        "Described only as blur or rush of wind"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Anywhere lumberjacks worked; reported inconsistently",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": ["Lumber territories"]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1910",
+        "circa": true,
+        "source": "Lumberjack tall tale collections"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American occupational folklore from lumber camps",
+      "folklore_connections": "Represents ultimate elusiveness; creature defined by lack of description"
+    }
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": ["Lumberjack tall tales"],
+      "beliefs": "Too fast to ever be caught or clearly seen; ultimate mysterious creature"
+    },
+    "popular_culture": {
+      "literature": [
+        "Fearsome Creatures of the Lumberwoods by William T. Cox (1910)"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "date": "1910"
+    }
+  ]
+}
